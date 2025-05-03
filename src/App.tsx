@@ -15,7 +15,7 @@ import {
 import "bootstrap-icons/font/bootstrap-icons.css";
 import anteaterImg from "./assets/anteater.png";
 
-const googleAPIKey = import.meta.env.VITE_API_KEY;
+const googleAPIKey = 'AIzaSyCDm-kHtEIsMQMo_VkGQ3pWDz_eu7S9O-0";
 const libraries: "places"[] = ["places"];
 
 const containerStyle = {
